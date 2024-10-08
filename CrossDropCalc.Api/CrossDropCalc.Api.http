@@ -1,6 +1,0 @@
-@CrossDropCalc.Api_HostAddress = http://localhost:5197
-
-GET {{CrossDropCalc.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
